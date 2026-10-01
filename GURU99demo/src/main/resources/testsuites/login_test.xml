@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suites"
+    verbose="1">
+  <test name = "Login Test">
+    <parameter name="browser" value="Chrome" />
+    <parameter name="url" value="https://demo.guru99.com/" />
+
+    <classes>
+      <class name="vn.vtiacademy.training.tests.LoginTest">
+      </class>
+    </classes>
+  </test>
+</suite>

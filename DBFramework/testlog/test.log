@@ -1,0 +1,20 @@
+INFO  | 2026-08-15 18:21:55 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getConnectionUrl:18) - Getting database connection url
+INFO  | 2026-08-15 18:21:55 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getConnectionUrl:23) - MySQL Database connection url is jdbc:mysql://127.0.0.1 : 3306/sql_store
+INFO  | 2026-08-15 18:21:55 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:createConnection:52) - Connecting to jdbc:mysql://127.0.0.1 : 3306/sql_store ...
+INFO  | 2026-08-15 18:21:55 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:createConnection:55) - Connected to jdbc:mysql://127.0.0.1 : 3306/sql_store successfully
+INFO  | 2026-08-15 18:21:55 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:executeQuery:80) - Executing query 'SELECT * FROM customers'
+INFO  | 2026-08-15 18:21:55 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:executeQuery:84) - Query 'SELECT * FROM customers' executed successfully
+INFO  | 2026-08-15 18:21:55 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getCellValues:93) - Getting cell values from column 'customer_id'
+INFO  | 2026-08-15 18:21:55 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getCellValues:99) - Cell values from column 'customer_id' retrieved successfully
+INFO  | 2026-08-15 18:21:55 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getCellValues:93) - Getting cell values from column 'first_name'
+INFO  | 2026-08-15 18:21:55 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getCellValues:99) - Cell values from column 'first_name' retrieved successfully
+INFO  | 2026-08-15 18:21:55 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getCellValues:93) - Getting cell values from column 'last_name'
+INFO  | 2026-08-15 18:21:55 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getCellValues:99) - Cell values from column 'last_name' retrieved successfully
+INFO  | 2026-08-15 18:21:55 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getConnectionUrl:18) - Getting database connection url
+INFO  | 2026-08-15 18:21:55 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getConnectionUrl:23) - MySQL Database connection url is jdbc:mysql://127.0.0.1 : 3306/sql_store
+INFO  | 2026-08-15 18:21:55 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:createConnection:52) - Connecting to jdbc:mysql://127.0.0.1 : 3306/sql_store ...
+INFO  | 2026-08-15 18:21:56 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:createConnection:55) - Connected to jdbc:mysql://127.0.0.1 : 3306/sql_store successfully
+INFO  | 2026-08-15 18:21:56 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:executeQuery:80) - Executing query 'SELECT * FROM customers'
+INFO  | 2026-08-15 18:21:56 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:executeQuery:84) - Query 'SELECT * FROM customers' executed successfully
+INFO  | 2026-08-15 18:21:56 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getCellValues:93) - Getting cell values from column 'customer_id'
+INFO  | 2026-08-15 18:21:56 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getCellValues:99) - Cell values from column 'customer_id' retrieved successfully

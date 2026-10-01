@@ -1,0 +1,49 @@
+INFO  | 2026-09-12 18:01:25 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:openBrowser:40) - Opening browser'CHROME'
+INFO  | 2026-09-12 18:01:26 | [main] bonigarcia.wdm.WebDriverManager (WebDriverManager.java:resolveDriverVersion:1268) - Using chromedriver 153.0.8010.36 (resolved driver for Chrome 153)
+INFO  | 2026-09-12 18:01:26 | [main] bonigarcia.wdm.WebDriverManager (WebDriverManager.java:exportDriver:1331) - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\153.0.8010.36\chromedriver.exe
+INFO  | 2026-09-12 18:01:28 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:openBrowser:62) - Open browser'CHROME' successfully
+INFO  | 2026-09-12 18:01:28 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:navigateTo:159) - Navigating to url 'https://demoqa.com/frames'.
+INFO  | 2026-09-12 18:01:30 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:navigateTo:161) - Navigated to url 'https://demoqa.com/frames' successfully.
+INFO  | 2026-09-12 18:01:30 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:maximizeWindow:169) - Maximizing the window.
+INFO  | 2026-09-12 18:01:31 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:maximizeWindow:171) - Maximized the window successfully.
+INFO  | 2026-09-12 18:01:31 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:findWebElement:301) - Finding web element located by '//iframe[@id='frame1']'.
+INFO  | 2026-09-12 18:01:31 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:findWebElement:319) - Total time '0.033' second(s).
+INFO  | 2026-09-12 18:01:31 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:findWebElement:320) - Found web element located by '//iframe[@id='frame1']'.
+INFO  | 2026-09-12 18:01:31 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:switchToFrame:1319) - Switching to frame located by '//iframe[@id='frame1']'
+INFO  | 2026-09-12 18:01:31 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:switchToFrame:1321) - Switched to frame located by '//iframe[@id='frame1']' successfully
+INFO  | 2026-09-12 18:01:31 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:findWebElement:301) - Finding web element located by '//h1[@id='sampleHeading']'.
+INFO  | 2026-09-12 18:01:31 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:findWebElement:319) - Total time '0.018' second(s).
+INFO  | 2026-09-12 18:01:31 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:findWebElement:320) - Found web element located by '//h1[@id='sampleHeading']'.
+INFO  | 2026-09-12 18:01:31 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:verifyElementText:558) - Verifying text of element located by '[[ChromeDriver: chrome on WINDOWS (0676323626b984484ab17db90a3c6e3d)] -> xpath: //h1[@id='sampleHeading']]'.
+INFO  | 2026-09-12 18:01:31 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:verifyElementText:561) - Text of web element located by '[[ChromeDriver: chrome on WINDOWS (0676323626b984484ab17db90a3c6e3d)] -> xpath: //h1[@id='sampleHeading']]' is 'This is a sample page'.
+INFO  | 2026-09-12 18:01:31 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:switchToDefaultContent:1329) - Switching to default content.
+INFO  | 2026-09-12 18:01:31 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:switchToDefaultContent:1331) - Switched to default content successfully.
+INFO  | 2026-09-12 18:01:35 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:delayInSeconds:372) - Delayed '4' second (s) successfully.
+INFO  | 2026-09-12 18:01:35 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:findWebElement:301) - Finding web element located by '//iframe[@id='frame2']'.
+INFO  | 2026-09-12 18:01:35 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:findWebElement:319) - Total time '0.046' second(s).
+INFO  | 2026-09-12 18:01:35 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:findWebElement:320) - Found web element located by '//iframe[@id='frame2']'.
+INFO  | 2026-09-12 18:01:35 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:switchToFrame:1319) - Switching to frame located by '//iframe[@id='frame2']'
+INFO  | 2026-09-12 18:01:35 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:switchToFrame:1321) - Switched to frame located by '//iframe[@id='frame2']' successfully
+INFO  | 2026-09-12 18:01:35 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:findWebElement:301) - Finding web element located by '//h1[@id='sampleHeading']'.
+INFO  | 2026-09-12 18:01:35 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:findWebElement:319) - Total time '0.015' second(s).
+INFO  | 2026-09-12 18:01:35 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:findWebElement:320) - Found web element located by '//h1[@id='sampleHeading']'.
+INFO  | 2026-09-12 18:01:35 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:verifyElementText:558) - Verifying text of element located by '[[ChromeDriver: chrome on WINDOWS (0676323626b984484ab17db90a3c6e3d)] -> xpath: //h1[@id='sampleHeading']]'.
+INFO  | 2026-09-12 18:01:35 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:verifyElementText:561) - Text of web element located by '[[ChromeDriver: chrome on WINDOWS (0676323626b984484ab17db90a3c6e3d)] -> xpath: //h1[@id='sampleHeading']]' is 'This is a sample page'.
+INFO  | 2026-09-12 18:01:35 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:findWebElement:301) - Finding web element located by 'id:sampleHeading'.
+INFO  | 2026-09-12 18:01:35 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:findWebElement:319) - Total time '0.02' second(s).
+INFO  | 2026-09-12 18:01:35 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:findWebElement:320) - Found web element located by 'id:sampleHeading'.
+INFO  | 2026-09-12 18:01:35 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:scrollToElement:1367) - Scrolling to web element '[[ChromeDriver: chrome on WINDOWS (0676323626b984484ab17db90a3c6e3d)] -> id: sampleHeading]'.
+INFO  | 2026-09-12 18:01:35 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:scrollToElement:1370) - Scrolled to web element '[[ChromeDriver: chrome on WINDOWS (0676323626b984484ab17db90a3c6e3d)] -> id: sampleHeading]' successfully.
+INFO  | 2026-09-12 18:01:39 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:delayInSeconds:372) - Delayed '4' second (s) successfully.
+INFO  | 2026-09-12 18:01:39 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:scrollBy:1379) - Scrolling by x='20', y='30'.
+INFO  | 2026-09-12 18:01:39 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:scrollBy:1382) - Scrolled by x='20', y='30' successfully.
+INFO  | 2026-09-12 18:01:43 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:delayInSeconds:372) - Delayed '4' second (s) successfully.
+INFO  | 2026-09-12 18:01:43 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:switchToParentFrame:1339) - Switching to parent frame.
+INFO  | 2026-09-12 18:01:43 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:switchToParentFrame:1341) - Switched to parent frame successfully.
+INFO  | 2026-09-12 18:01:43 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:findWebElement:301) - Finding web element located by '//span[normalize-space()='Frames']'.
+INFO  | 2026-09-12 18:01:43 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:findWebElement:319) - Total time '0.035' second(s).
+INFO  | 2026-09-12 18:01:43 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:findWebElement:320) - Found web element located by '//span[normalize-space()='Frames']'.
+INFO  | 2026-09-12 18:01:43 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:verifyElementVisible:438) - Verifying web element '[[ChromeDriver: chrome on WINDOWS (0676323626b984484ab17db90a3c6e3d)] -> xpath: //span[normalize-space()='Frames']]' visible.
+INFO  | 2026-09-12 18:01:43 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:verifyElementVisible:441) - Element '[[ChromeDriver: chrome on WINDOWS (0676323626b984484ab17db90a3c6e3d)] -> xpath: //span[normalize-space()='Frames']]' is visible.
+INFO  | 2026-09-12 18:01:44 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:closeBrowser:82) - Closing browser
+INFO  | 2026-09-12 18:01:44 | [main] vn.vtiacademy.commonkeys.DemoTest.WebUI (WebUI.java:closeBrowser:84) - Closed browser successfully

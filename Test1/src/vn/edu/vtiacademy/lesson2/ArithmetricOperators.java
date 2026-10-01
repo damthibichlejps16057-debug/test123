@@ -2,7 +2,7 @@ package vn.edu.vtiacademy.lesson2;
 
 import java.util.Scanner;
 
-public class ArithmetricOperators{
+public class ArithmetricOperators {
 
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in); //Create a Scanner object to read input from console
@@ -17,19 +17,19 @@ public class ArithmetricOperators{
 
     // Phép trừ  (Subtraction)
     int sub = a - b;
-    System.out.println(" a - b = " + a + " - " + b + " = "+ sub);
+    System.out.println(" a - b = " + a + " - " + b + " = " + sub);
 
     // Phép nhân (Multiplication)
     int mul = a * b;
     System.out.println("a * b = " + a + " * " + b + " = " + mul);
 
     // Phép chia (Division)
-    int div = a/b;
+    int div = a / b;
     System.out.println(" a / b = " + a + " / " + b + " = " + div);
 
     // Phép chia lấy dư (Modulus)
     int remainder = a % b;
-    System.out.println(" a % b = " + a + " % " + b + " = "+ remainder);
+    System.out.println(" a % b = " + a + " % " + b + " = " + remainder);
 
     // Toán tử tăng/giảm
     a++; // Tăng a lên 1 đơn vị

@@ -1,0 +1,10 @@
+INFO  | 2026-08-13 18:25:24 | [main] vti.academy.MathTest03 (MathTest03.java:beforeAll:29) - ====================Starting All Tests===================
+INFO  | 2026-08-13 18:25:24 | [main] vti.academy.MathTest03 (MathTest03.java:MP001_add_two_numbers_successfully:40) - MP001
+INFO  | 2026-08-13 18:25:24 | [main] vti.academy.MathTest03 (MathTest03.java:MP001_add_two_numbers_successfully:40) - MP001
+INFO  | 2026-08-13 18:25:24 | [main] vti.academy.MathTest03 (MathTest03.java:MP001_add_two_numbers_successfully:40) - MP001
+INFO  | 2026-08-13 18:25:24 | [main] vti.academy.MathTest03 (MathTest03.java:MP002_subtract_two_numbers_successfully:53) - MP002
+INFO  | 2026-08-13 18:25:25 | [main] vti.academy.MathTest03 (MathTest03.java:MP002_subtract_two_numbers_successfully:53) - MP002
+INFO  | 2026-08-13 18:25:25 | [main] vti.academy.MathTest03 (MathTest03.java:MP003_multiply_two_numbers_successfully:63) - MP003
+INFO  | 2026-08-13 18:25:25 | [main] vti.academy.MathTest03 (MathTest03.java:MP003_multiply_two_numbers_successfully:63) - MP003
+INFO  | 2026-08-13 18:25:25 | [main] vti.academy.MathTest03 (MathTest03.java:MP003_multiply_two_numbers_successfully:63) - MP003
+INFO  | 2026-08-13 18:25:25 | [main] vti.academy.MathTest03 (MathTest03.java:afterAll:71) - ====================Ended All Tests===================
